@@ -5,7 +5,7 @@ let isDaytime = false;
 
 function setup() {
   createCanvas(600, 400);
-  saveGif('character', 5);
+
 }
 
 function draw() {

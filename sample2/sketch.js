@@ -1,6 +1,6 @@
 function setup() {
   createCanvas(600, 400); // 과제 조건 600 * 400 사이즈에 맞게 설정
-  saveGif('penguin', 5);
+
 }
 
 function draw() {
